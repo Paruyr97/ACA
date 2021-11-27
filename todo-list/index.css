@@ -1,0 +1,8 @@
+.done {
+	text-decoration: line-through;
+}
+
+li:hover {
+	background-color: tomato;
+	font-size: 20px;
+}
