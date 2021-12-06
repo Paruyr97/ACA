@@ -1,0 +1,16 @@
+input, select {
+	border: 3px solid #b7abab;
+    border-radius: 8px;
+    padding: 10px;
+    margin: 10px;
+    width: 190px
+}
+
+select {
+	color: black;
+	font-weight: bolder;
+}
+
+input {
+	color: #9d7b7b;
+}
